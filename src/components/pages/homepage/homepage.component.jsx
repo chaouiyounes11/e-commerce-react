@@ -4,7 +4,7 @@ import Directory from '../../directory/directory.component'
 
 const HomePage = () => (
     <Directory />
-)
-
-
+    )
+    
+    
 export default HomePage
